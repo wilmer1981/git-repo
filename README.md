@@ -7,4 +7,4 @@
 6. git branch
 7. git checkout master
 8. git branch -d rama-heroes
-9. git pushgit add .
+9. git push
