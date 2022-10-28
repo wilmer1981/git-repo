@@ -5,3 +5,4 @@
 4. git checkout -- .
 5. git checkout -b rama-heroes
 6. git branch
+7. git checkout master
