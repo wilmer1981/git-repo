@@ -3,3 +3,4 @@
 2. git add .
 3. git commit -m "primer commit"
 4. git checkout -- .
+5. git checkout -b rama-heroes
